@@ -121,6 +121,7 @@ Intern AI/ML Engineer
 Technorizen Software Solution Pvt. Ltd., Indore  
 
 GitHub: https://github.com/kanha165  
+
 LinkedIn: https://www.linkedin.com/in/kanha-patidar-837421290/
 ---
 
