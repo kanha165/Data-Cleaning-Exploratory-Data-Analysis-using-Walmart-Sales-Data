@@ -115,12 +115,21 @@ images/
 
 ---
 
-## 👨‍💻 Author
-**Kanha Patidar**  
-Intern AI/ML Engineer  
-Technorizen Software Solution Pvt. Ltd., Indore  
+👨‍💻 Author
+Developed by **Kanha Patidar**
 
-GitHub: https://github.com/kanha165  
+Branch: B.Tech CSIT
+
+Semester: 5th Sem
+
+College: Chameli Devi Group of Institutions, Indore
+
+
+GitHub: kanha165
+
+LinkedIn: (https://www.linkedin.com/in/kanha-patidar-837421290/)
+
+Email: (kanhapatidar7251@gmail.com)
 
 LinkedIn: https://www.linkedin.com/in/kanha-patidar-837421290/
 ---
